@@ -15,4 +15,4 @@ Se nos proporciona un documento HTML que contiene una serie de errores en el có
 - Visual Studio Code, junto a Git Bash, para la creación de los elementos necesarios: documentos HTML y CSS, así como las carpetas necesarias para su organización, y repositorio local.
 - GitHub para la creación de un repositorio online que nos permitirá recuperar el proyecto desde cualquier dispositivo, así como compartirlo llegado el momento.
 ## EQUIPO
-- @JohnnyRamirezSancho
+- [@JohnnyRamirezSancho](https://github.com/JohnnyRamirezSancho)
